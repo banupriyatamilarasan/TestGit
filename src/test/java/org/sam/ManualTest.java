@@ -13,18 +13,36 @@ public class ManualTest {
 	private void name3() {
 		System.out.println(57);
 }
+
+	private void name4() {
+		System.out.println(34);
+		
+	}
+	private void name5() {
+
+		System.out.println(56);
+	}
+		private void name6() {
+			System.out.println(57);
+		
+		
+	}
+
 	private void name7() {
 		System.out.println(34);
 		
 	}
 	private void name8() {
-		System.out.println(56);
-		
-		
+		System.out.println(57);
 	}
+
+
 	private void name9() {
 		System.out.println(57);
 }
 	
+
+	
+
 
 }
